@@ -8,7 +8,7 @@
         >vue-cli documentation</a
       >.
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>Vue CLI Installed Plugins</h3>
     <ul>
       <li>
         <a
@@ -51,7 +51,7 @@
         >
       </li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Essential Vue Links</h3>
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
@@ -75,7 +75,7 @@
         <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
       </li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h3>Vue Ecosystem</h3>
     <ul>
       <li>
         <a href="https://router.vuejs.org" target="_blank" rel="noopener"
@@ -104,6 +104,18 @@
           target="_blank"
           rel="noopener"
           >awesome-vue</a
+        >
+      </li>
+    </ul>
+    <h3>Non-Vue Tools Used</h3>
+    <ul>
+      <li>
+        Logo created on an Android phone using
+        <a
+          href="https://play.google.com/store/apps/details?id=com.createlogo.logomaker"
+          target="_blank"
+          rel="noopener"
+          >Logo Maker by Mobi App & Thumbnail, Inc.</a
         >
       </li>
     </ul>
