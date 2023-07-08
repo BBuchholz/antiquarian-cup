@@ -3,7 +3,8 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
     <router-link to="/venture">Venture</router-link> |
-    <router-link to="/paths">Paths</router-link>
+    <router-link to="/paths">Paths</router-link> |
+    <router-link to="/joftf">joFTF</router-link>
   </nav>
   <router-view />
 </template>

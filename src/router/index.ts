@@ -2,6 +2,7 @@ import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import VentureView from "../views/VentureView.vue";
 import PathsView from "../views/PathsView.vue";
+import JOFTFView from "../views/JOFTFView.vue";
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -18,6 +19,11 @@ const routes: Array<RouteRecordRaw> = [
     path: "/paths",
     name: "paths",
     component: PathsView,
+  },
+  {
+    path: "/joftf",
+    name: "joftf",
+    component: JOFTFView,
   },
   {
     path: "/about",
